@@ -126,6 +126,9 @@ If you see the two modules, great! We're ready to keep going.
 ### Step 6
 Now that our xdebug is coupled with PHP we're ready to link it up to the Atom php-debug package. To install that lets go ahead and open Atom. Once the program is open you'll want to navigate to the package installation menu. This can be see on Max OSX via the *Atom -> Preferences -> Install* menu.
 
-Once you have the menu open, go ahead and search for the package **php-debug**
+Once you have the menu open, go ahead and search for the package **php-debug** and install it:
 
+![alt text](atom-php-debug.png "Atom php-debug package")
 
+### Step 7
+Now that we have the atom php-debug package installed we're finally ready to start debugging PHP! To test it out go ahead and create a php file, open it in Atom, turn on the PHP console and PHP Debugger in the bottom left of the editor, and begin debugging! You can right-click/two-finger-click on the line numbers and toggle a break point in your code. Then when you run your code it will stop the execution at the breakpoints and you can inspect.
