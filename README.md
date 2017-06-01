@@ -2,10 +2,10 @@
 Install instructions for xdebug installation and use with the php-debug atom package
 
 ## Requisites
-Mac OSX
-Bash terminal
-[Homebrew](https://brew.sh/)
-[Atom](https://atom.io)
+- Mac OSX
+- Bash terminal
+- [Homebrew](https://brew.sh/)
+- [Atom](https://atom.io)
 
 ## Installation
 
