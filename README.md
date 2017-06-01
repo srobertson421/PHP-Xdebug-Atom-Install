@@ -31,7 +31,7 @@ Scan for additional .ini files in: /usr/local/etc/php/5.6/conf.d
 Additional .ini files parsed:      /usr/local/etc/php/5.6/conf.d/ext-xdebug.ini
 ```
 
-If everything looks good there then continue on to [Step 4](). However if instead the output looks like this:
+If everything looks good there then continue on to [Step 4](https://github.com/srobertson421/PHP-Xdebug-Atom-Install#step-4). However if instead the output looks like this:
 
 ```bash
 Configuration File (php.ini) Path: /etc
@@ -40,7 +40,7 @@ Scan for additional .ini files in: (none)
 Additional .ini files parsed:      (none)
 ```
 
-then continue on to [Step 3]()
+then continue on to [Step 3](https://github.com/srobertson421/PHP-Xdebug-Atom-Install#step-3)
 
 ### Step 3
 Since we're missing the config files for our php installation we'll have to go ahead an manually add in the reference. To do so we'll add an environment variable to our bash configuration. Typically you would end up editing either ```~/.bashrc``` ```~/.bash_profile``` or if you have zsh installed ```~/.zshrc```
