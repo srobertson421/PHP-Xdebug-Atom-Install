@@ -132,3 +132,5 @@ Once you have the menu open, go ahead and search for the package **php-debug** a
 
 ### Step 7
 Now that we have the atom php-debug package installed we're finally ready to start debugging PHP! To test it out go ahead and create a php file, open it in Atom, turn on the PHP console and PHP Debugger in the bottom left of the editor, and begin debugging! You can right-click/two-finger-click on the line numbers and toggle a break point in your code. Then when you run your code it will stop the execution at the breakpoints and you can inspect.
+
+![alt text](debugging.png "Atom php debugging")
